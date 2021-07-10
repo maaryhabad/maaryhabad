@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
-<h3 align="center">A passionate iOS developer from Brazil</h3>
+<h3 align="center">iOS developer from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maaryhabad&label=Profile%20views&color=0e75b6&style=flat" alt="maaryhabad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maaryhabad" alt="maaryhabad" /></a> </p>
 
 - 💬 Ask me about **Swift, HTML, CSS and JavaScript**
+
+- 📫 How to reach me **maryh.abad@gmail.com**
+
+- 🤰🏻 I'm the mother of **a little girl and a cat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
