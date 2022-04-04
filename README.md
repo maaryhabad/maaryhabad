@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mariana-abad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariana-abad" height="30" width="40" /></a>
 <a href="https://medium.com/@marianabeiluneabad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marianabeiluneabad" height="30" width="40" /></a>
+  [![Mariana Abad StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8722646)](https://stackoverflow.com/users/8722646/mariana-beilune-abad)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
